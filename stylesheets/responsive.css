@@ -436,7 +436,8 @@ display: none;
 }
 
 .front{
-	position: relative;
+	margin-left: 1vw;
+	margin-top: 1vw;
 	width: 47vw;
 	height: 47vw;
 }
