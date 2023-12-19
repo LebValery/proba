@@ -437,8 +437,6 @@ display: none;
 
 .front{
 	position: relative;
-	left: 1vw;
-	top: 1vw;
 	width: 47vw;
 	height: 47vw;
 }
